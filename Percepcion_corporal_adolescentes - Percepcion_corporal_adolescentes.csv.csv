@@ -1,0 +1,130 @@
+Country,Survey_year,Age_group,Girl,Boy
+Poland,2022,11-year-olds,46,38
+Belgium (French),2022,11-year-olds,40,29
+Estonia,2022,11-year-olds,30,32
+Germany,2022,11-year-olds,35,27
+Hungary,2022,11-year-olds,37,25
+Netherlands,2022,11-year-olds,38,23
+Denmark,2022,11-year-olds,38,23
+Latvia,2022,11-year-olds,31,29
+Luxembourg,2022,11-year-olds,33,27
+Portugal,2022,11-year-olds,30,29
+Austria,2022,11-year-olds,31,26
+Lithuania,2022,11-year-olds,34,24
+Switzerland,2022,11-year-olds,33,22
+Finland,2022,11-year-olds,32,22
+Greenland,2022,11-year-olds,31,22
+Wales,2022,11-year-olds,31,23
+Belgium (Flemish),2022,11-year-olds,29,22
+Bulgaria,2022,11-year-olds,28,24
+England,2022,11-year-olds,27,24
+Romania,2022,11-year-olds,24,27
+Czechia,2022,11-year-olds,25,24
+France,2022,11-year-olds,30,21
+Italy,2022,11-year-olds,29,21
+Canada,2022,11-year-olds,27,22
+North Macedonia,2022,11-year-olds,22,26
+Slovenia,2022,11-year-olds,25,23
+Spain,2022,11-year-olds,24,24
+Albania,2022,11-year-olds,21,25
+Malta,2022,11-year-olds,27,19
+Slovakia,2022,11-year-olds,24,23
+Croatia,2022,11-year-olds,21,23
+Ireland,2022,11-year-olds,25,19
+Republic of Moldova,2022,11-year-olds,23,21
+Sweden,2022,11-year-olds,29,16
+Greece,2022,11-year-olds,23,19
+Iceland,2022,11-year-olds,24,18
+Israel,2022,11-year-olds,22,20
+Cyprus,2022,11-year-olds,20,20
+Kazakhstan,2022,11-year-olds,17,16
+Serbia,2022,11-year-olds,18,15
+Armenia,2022,11-year-olds,14,16
+Tajikistan,2022,11-year-olds,12,17
+Kyrgyzstan,2022,11-year-olds,10,11
+Poland,2022,13-year-olds,60,35
+Austria,2022,13-year-olds,43,40
+Belgium (French),2022,13-year-olds,50,29
+Germany,2022,13-year-olds,46,32
+Hungary,2022,13-year-olds,45,33
+Greenland,2022,13-year-olds,47,28
+Latvia,2022,13-year-olds,41,32
+Denmark,2022,13-year-olds,48,23
+Netherlands,2022,13-year-olds,44,28
+Wales,2022,13-year-olds,44,29
+Estonia,2022,13-year-olds,40,31
+Lithuania,2022,13-year-olds,42,27
+Switzerland,2022,13-year-olds,45,26
+Finland,2022,13-year-olds,39,27
+Luxembourg,2022,13-year-olds,40,27
+Portugal,2022,13-year-olds,40,27
+Sweden,2022,13-year-olds,42,24
+Ireland,2022,13-year-olds,39,26
+Slovenia,2022,13-year-olds,37,26
+Belgium (Flemish),2022,13-year-olds,41,22
+Canada,2022,13-year-olds,37,24
+England,2022,13-year-olds,40,22
+Greece,2022,13-year-olds,37,25
+France,2022,13-year-olds,37,23
+North Macedonia,2022,13-year-olds,31,28
+Spain,2022,13-year-olds,33,27
+Italy,2022,13-year-olds,37,21
+Bulgaria,2022,13-year-olds,31,25
+Czechia,2022,13-year-olds,30,26
+Malta,2022,13-year-olds,31,24
+Romania,2022,13-year-olds,30,27
+Slovakia,2022,13-year-olds,31,25
+Iceland,2022,13-year-olds,32,22
+Israel,2022,13-year-olds,27,27
+Croatia,2022,13-year-olds,30,23
+Cyprus,2022,13-year-olds,24,25
+Republic of Moldova,2022,13-year-olds,31,20
+Albania,2022,13-year-olds,17,24
+Serbia,2022,13-year-olds,23,17
+Kazakhstan,2022,13-year-olds,20,15
+Armenia,2022,13-year-olds,15,18
+Kyrgyzstan,2022,13-year-olds,15,10
+Tajikistan,2022,13-year-olds,14,13
+Poland,2022,15-year-olds,56,32
+Belgium (French),2022,15-year-olds,54,28
+Wales,2022,15-year-olds,50,30
+Germany,2022,15-year-olds,50,29
+Ireland,2022,15-year-olds,52,27
+Austria,2022,15-year-olds,44,30
+Luxembourg,2022,15-year-olds,47,27
+Netherlands,2022,15-year-olds,48,26
+Denmark,2022,15-year-olds,49,23
+England,2022,15-year-olds,43,29
+Hungary,2022,15-year-olds,46,27
+Latvia,2022,15-year-olds,44,27
+Switzerland,2022,15-year-olds,47,23
+Estonia,2022,15-year-olds,38,31
+Belgium (Flemish),2022,15-year-olds,46,21
+Finland,2022,15-year-olds,46,19
+Lithuania,2022,15-year-olds,42,24
+Slovenia,2022,15-year-olds,39,26
+Sweden,2022,15-year-olds,43,24
+Canada,2022,15-year-olds,38,26
+Portugal,2022,15-year-olds,39,24
+France,2022,15-year-olds,41,22
+Greece,2022,15-year-olds,39,24
+Greenland,2022,15-year-olds,38,24
+Iceland,2022,15-year-olds,39,23
+Italy,2022,15-year-olds,40,22
+Malta,2022,15-year-olds,40,23
+Spain,2022,15-year-olds,38,24
+Croatia,2022,15-year-olds,33,22
+Israel,2022,15-year-olds,31,24
+Romania,2022,15-year-olds,30,25
+Slovakia,2022,15-year-olds,33,21
+North Macedonia,2022,15-year-olds,30,22
+Czechia,2022,15-year-olds,28,22
+Bulgaria,2022,15-year-olds,25,22
+Republic of Moldova,2022,15-year-olds,32,15
+Cyprus,2022,15-year-olds,25,22
+Albania,2022,15-year-olds,18,17
+Serbia,2022,15-year-olds,20,13
+Kazakhstan,2022,15-year-olds,21,11
+Armenia,2022,15-year-olds,14,15
+Kyrgyzstan,2022,15-year-olds,20,6
+Tajikistan,2022,15-year-olds,14,11
